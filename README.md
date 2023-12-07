@@ -1,5 +1,8 @@
 # 3D-OBB-Collision
-Collision Detection for 3D OBB of bounding box
+Collision Detection for 3D Oriented Bounding Box
+
+
+
 
 ```
 def check_collision(obb1, obb2):
